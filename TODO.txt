@@ -1,0 +1,14 @@
+
+TODO
+
+LibiAuditor version 0.1 beta (14/07/2012):
+===========================================
+
+- Additional hooks required for other URL requesting methods & file system access
+
+- Expand issue descriptions to also include recommendations
+
+- Add further format strings to the NSLog hook
+
+
+
